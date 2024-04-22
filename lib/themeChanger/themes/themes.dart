@@ -10,7 +10,7 @@ class AppThemes {
     brightness: Brightness.light,
     // colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
     useMaterial3: true,
-    primaryColor: Colors.deepPurple,
+    // primaryColor: Colors.white,
 
   );
 
@@ -19,7 +19,7 @@ class AppThemes {
     brightness: Brightness.dark,
     // colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
     useMaterial3: true,
-      primaryColor: Colors.deepPurple,
+      // primaryColor: Colors.white,
 
   );
 }
